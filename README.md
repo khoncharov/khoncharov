@@ -15,8 +15,8 @@ All projects with frontend deployed.
 
 - Pet projects:
 
-  - Tetris game (2022.08) - [repo](https://github.com/khoncharov/tetris). html, css, js, nodejs for tests
   - Video filter converter (Chrome extension) (2023.04) - [repo](https://github.com/khoncharov/video-filter-chrome-ext). html, scss, ts, webpack, jest
+  - Tetris game (2022.08) - [repo](https://github.com/khoncharov/tetris). html, css, js, nodejs for tests
 
 - Frontend Mentor (.com) challenges 2023.02 (complexity -> c, from 1 to 5):
 
