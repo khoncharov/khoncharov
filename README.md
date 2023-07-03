@@ -34,7 +34,7 @@ All projects with frontend deployed.
 
 - Rolling Scopes School - NodeJS:
 
-  - NodeJS CLI FileManager - [repo](https://github.com/khoncharov/RSS-NodeJS-FileManager)
+  - NodeJS CLI FileManager (2022.07) - [repo](https://github.com/khoncharov/RSS-NodeJS-FileManager)
 
 - Rolling Scopes School - Frontend/JS:
 
