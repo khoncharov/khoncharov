@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- My name is Konstantin [linkedin](https://www.linkedin.com/in/konstantin-honcharov-563180189/).
+- My name is Konstantin.
 - I'm a engineer and front-end developer.
 - I'm currently learning HTML, CSS, JS, Angular, React, NodeJS.
+- My [linkedin](https://www.linkedin.com/in/konstantin-honcharov-563180189/).
 
 ### Here are some of my projects:
 
