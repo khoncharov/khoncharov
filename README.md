@@ -9,6 +9,11 @@
 
 All projects with frontend deployed.
 
+- Team projects:
+
+  - Project management app (kanban board) (2022.11) - Angular course, see lower in list
+  - Language learning app (2022.02) - Frontend/JS, see lower in list
+
 - Test task:
 
   - Paralect (2023.05) - [Job search app](https://github.com/khoncharov/job_search_app). React, SPA, ajax, vite
@@ -27,16 +32,16 @@ All projects with frontend deployed.
   - Interactive card details form (c: 2) - [repo](https://github.com/khoncharov/FM-Interactive-card-details-form). HTML, SCSS, TS, Vite, Accessibility
   - News homepage (c: 2) - [repo](https://github.com/khoncharov/FM-News-homepage). Webpage layout, HTML, SCSS, Vite
 
-- Rolling Scopes School - Angular:
+- Rolling Scopes School - Angular (EPAM):
 
-  - Angular course final team task (2022.11) > [Project repo](https://github.com/khoncharov/project-management-app). [Final PR](https://github.com/khoncharov/project-management-app/pull/69). Work flow in Git Projects [All tasks](https://github.com/users/khoncharov/projects/6/views/8). Angular, SPA, scss, ajax, CI/CD - netlify
+  - Project management app (kanban board), final team task (2022.11) > [Project repo](https://github.com/khoncharov/project-management-app). [Final PR](https://github.com/khoncharov/project-management-app/pull/69). Work flow in Git Projects [All tasks](https://github.com/users/khoncharov/projects/6/views/8). Angular, SPA, scss, ajax, CI/CD - netlify
   - Youtube search app (2022.10) > [deploy](https://stellar-pie-0a2c44.netlify.app/). SPA. Login/password - random. Search is limited to 100 queries
 
-- Rolling Scopes School - NodeJS:
+- Rolling Scopes School - NodeJS (EPAM):
 
   - NodeJS CLI FileManager (2022.07) - [repo](https://github.com/khoncharov/RSS-NodeJS-FileManager)
 
-- Rolling Scopes School - Frontend/JS:
+- Rolling Scopes School - Frontend/JS (EPAM):
 
   - Art quiz game (2021.12) > [deploy](https://elegant-phoenix-9f8bac.netlify.app/) / [repo](https://github.com/khoncharov/RSS-JS-FE-2021Q3/tree/art-quiz). SPA, html, css, js
   - Language learning app - Final team task (2022.02) > [repo](https://github.com/v3n9s/rs-lang) / [final PR](https://github.com/v3n9s/rs-lang/pull/21). SPA, html, scss, ts, webpack, jest, eslint
