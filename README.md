@@ -12,7 +12,7 @@ All projects with frontend deployed.
 - Team projects:
 
   - Project management app (kanban board) (2022.11) - Angular course, see lower in list
-  - Language learning app (2022.02) - Frontend/JS, see lower in list
+  - Language learning app (2022.02) - Frontend/JS course, see lower in list
 
 - Test task:
 
